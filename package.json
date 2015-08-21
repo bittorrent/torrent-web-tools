@@ -1,0 +1,23 @@
+{
+  "name": "torrent-web-tools",
+  "version": "1.0.0",
+  "description": "This is a Work-In-Progress collection of tools for use with the Maelstrom browser. They will allow the creation and seeding of torrent files that contain static websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bt-browser/torrent-web-tools"
+  },
+  "keywords": [
+    "torrent",
+    "generator"
+  ],
+  "author": "Aaron Cohen @ BitTorrent, Inc.",
+  "license": "BitTorrent Open Source License Version 1.2",
+  "bugs": {
+    "url": "https://github.com/bt-browser/torrent-web-tools/issues"
+  },
+  "homepage": "https://github.com/bt-browser/torrent-web-tools"
+}
